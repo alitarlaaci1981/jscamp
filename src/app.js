@@ -34,3 +34,5 @@ console.log("</ul>")
 </ul> */}
 
 console.log(konutKredileri)
+
+//console.log("Merhaba kodlama");
